@@ -1,0 +1,15 @@
+com\controller\LoginServlet.class
+com\controller\RegisterServlet.class
+com\mycompany\project\JakartaRestConfiguration.class
+com\mycompany\project\resources\JakartaEE10Resource.class
+com\controller\ComplaintServlet.class
+com\controller\ComplaintListServlet.class
+com\util\DBUtil.class
+com\controller\UpdateServlet.class
+com\model\User.class
+com\controller\ComplaintDetailsServlet.class
+com\controller\EditComplaintServlet.class
+com\model\UserLogin.class
+com\dao\ComplaintDAO.class
+com\model\ComplaintList.class
+com\model\Complaint.class
